@@ -70,11 +70,9 @@ Or just open `index.html` directly in your browser.
 
 ## 🔗 Connect With Me
 
-- **Email**: imthiyasr142@gmail.com  
-- **Phone**: +91 9042532649  
-- **Location**: Vellore, Tamil Nadu, India  
-- **LinkedIn**: [Add your LinkedIn link]  
-- **GitHub**: [Add your GitHub profile link]  
+- **Email**: imthiyasr142@gmail.com   
+- **LinkedIn**: https://www.linkedin.com/in/imthiyas-r-6b41802ba/
+- **GitHub**: https://github.com/Imthiyas07/
 
 ---
 
